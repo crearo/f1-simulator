@@ -9,6 +9,7 @@ Though it reminds me more of horse race than an F1, here's the question.
 
 
 http://www.geeksforgeeks.org/google-interview-question-for-java-position/
+---
 
 Google Interview Question for Java Position
 The solution will be evaluated on following parameters.
@@ -33,6 +34,6 @@ All of them start at the same time and try to attain their top speed. A re-asses
 Taking the number of teams and length of track as the input, Calculate the final speeds and the corresponding completion times.
 
 -----
-Do look at the code, and let me know how it can be improved, I would'nt mind constructive criticism!
+Do look at the code, I wouldn't mind constructive criticism!
 -----
 
