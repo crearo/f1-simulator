@@ -32,7 +32,7 @@ All of them start at the same time and try to attain their top speed. A re-asses
 
 Taking the number of teams and length of track as the input, Calculate the final speeds and the corresponding completion times.
 
----
-Do look at the code, and let me know how it can be improved!
----
+-----
+Do look at the code, and let me know how it can be improved, I would'nt mind constructive criticism!
+-----
 
