@@ -7,6 +7,9 @@ Ive tried my best to do so, and I wouldnt mind constructive criticism.
 Secondly, its just fun to make simulations, isnt it? :D I spent almost an hour after coding this, messing around with the values and looking at the outcome. 
 Though it reminds me more of horse race than an F1, here's the question. 
 
+---
+http://www.geeksforgeeks.org/google-interview-question-for-java-position/
+---
 Google Interview Question for Java Position
 The solution will be evaluated on following parameters.
       Object Oriented Design aspects of the solution.
